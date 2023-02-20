@@ -9,5 +9,5 @@ This is a repository for the students attending the Computer Science course "Sof
 
 | **Folder**                  | **Explanation**                 
 | --------------------------: | :------------------------------------------------- |
-| Markdown Language           | Will contain information and a basic tutorial on how to use Markdown language for taking notes in Computer Science. 
+| *Markdown Language*           | Will contain information and a basic tutorial on how to use Markdown language for taking notes in Computer Science. 
 | Other folders to come...    | Some explanation here...        
