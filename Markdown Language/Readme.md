@@ -159,7 +159,7 @@ start taking notes, using markdown language.
 
 For more information, see [GitHub's QuickStart guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)! :)
 
-This link provides information about how to do the following:
+This link provides information on how to do the following:
 - Make tables
 - Inserting quotes
 - Adding comments
