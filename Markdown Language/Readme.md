@@ -86,14 +86,11 @@ text: `**text you want to be bold**`, and for italic text, that would be `_some 
 
 <!-- How to use Syntax highlighting -->
 ## Code-highlighting (Also called 'Syntax highlighting')
-This is probably the most important and most valuable aspect of using Markdown language for taking notes and 
-describing your Coding-project in detail.
+This is probably the most important and most valuable aspect of using Markdown language for taking notes and describing your Code-project in detail.
 
-Code-highlighting is a pain to setup in text-editors like Word or the like, but it is rather simply in Markdown
-language.
+Code-highlighting is a pain to setup in text-editors like Word or the like, but it is rather simply in Markdown language.
 
-All one have to do is type triple '`' followed by the code language, you want to use the highlighting from. To see 
-exactly how the setup looks, I advice to look in the "Readme.md" file provided in this project. 
+All one have to do is type triple '`' followed by the code language, you want to use the highlighting from. To see exactly how the setup looks, I advise you to look in the "Readme.md" file provided in this folder. 
 
 <!-- Examples of Syntax Highlighting in Java, Python and C# -->
 ### **Java example**:
